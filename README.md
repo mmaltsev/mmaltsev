@@ -21,6 +21,6 @@ Most of my work is close to engineering: clear product strategy, strong DX, and 
 
 - Strong technical background with hands-on experience as a **Software Engineer** working with Python, SQL, and JavaScript / TypeScript.
 
-- Co-creator of open-source libraries (gauge-chart)[https://github.com/greetclock/gauge-chart] and (angular-gauge-chart)[https://github.com/greetclock/angular-gauge-chart] with **3,000+ weekly downloads**.
+- Co-creator of open-source libraries [gauge-chart](https://github.com/greetclock/gauge-chart) and [angular-gauge-chart](https://github.com/greetclock/angular-gauge-chart) with **3,000+ weekly downloads**.
 
 🎓 MSc Computer Science (Intelligent Information Systems), University of Bonn.
