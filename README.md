@@ -2,7 +2,7 @@
 
 I build **developer tools and API-first products**.
 
-I’m a **Senior Product Manager** with 5+ years of experience working on **developer platforms, open-source tooling, and B2B SaaS**.
+I’m a **Senior Product Manager** with 5+ years of experience working on **developer platforms, open-source tooling, and B2B SaaS** and over 10 years in software engineering and analytics roles.
 
 Most of my work is close to engineering: clear product strategy, strong DX, and scalable systems. I’ve shipped **SDKs, CLIs, extensibility frameworks, and API-first services** used by developers and partners at scale.
 
@@ -17,7 +17,7 @@ Most of my work is close to engineering: clear product strategy, strong DX, and 
 
 <h2> About Me </h2>
 
-- **Senior Product Manager**, leading API-first user and account services for global partners with vast experience owning and developing open-source developer tooling.
+- **Senior Product Manager**, leading API-first user and account services for global partners in travel tech with vast experience owning and developing open-source developer tooling.
 
 - Strong technical background with hands-on experience as a **Software Engineer** working with Python, SQL, and JavaScript / TypeScript.
 
