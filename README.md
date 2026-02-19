@@ -1,4 +1,4 @@
-<h1> Hi, I'm Maxim 👋🏼 </h1>
+<h1> Hi, I'm Maxim 👋🏻 </h1>
 
 I build **developer tools and API-first products**.
 
