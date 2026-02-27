@@ -9,7 +9,7 @@ Most of my work is close to engineering: clear product strategy, strong DX, and 
 **What I work on**
 
 - Developer tooling: SDKs, CLIs, APIs, extensibility frameworks
-- API-first SaaS platforms and ecosystems
+- API-first platforms, SaaS, and ecosystems
 - Product strategy, roadmaps, and prioritization
 - UX for developers and design systems
 - Cross-functional delivery in Agile environments
