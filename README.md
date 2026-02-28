@@ -1,6 +1,6 @@
 <h1> Hi, I'm Maxim 👋🏻 </h1>
 
-I build developer tools and API-first products.
+I build developer tools and API-first products for SaaS.
 
 I’m a Senior Product Manager with 5+ years of experience working on developer platforms, open-source tooling, and B2B SaaS and 10+ years in software engineering and analytics.
 
